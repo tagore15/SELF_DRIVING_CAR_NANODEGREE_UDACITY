@@ -1,4 +1,4 @@
-This is consolidated list of Udacity Self-driving car Nanodegree.
+This is consolidated list of Udacity Self-driving car Nanodegree projects.
 
 # TERM1 (Computer Vision and Deep Learning)
 1) Project: Detect Lane Lines     
