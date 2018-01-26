@@ -38,3 +38,9 @@ Implement a Model Predictive Controller to keep a simulated vehicle in its lane.
 
 # TERM3 (Planning and System Integeration)
 working on it
+
+
+
+# Other Useful Repos
+https://github.com/ColinShaw/udacity-term-3-quizzes-et-cetera
+
