@@ -1,3 +1,4 @@
+[image_cert]: certificate.PNG "certificate of graduation"
 This is consolidated list of Udacity Self-driving car Nanodegree projects.
 
 # TERM1 (Computer Vision and Deep Learning)
@@ -37,4 +38,10 @@ Implement the classic closed-loop controller, proportional-integral-derivative c
 Implement a Model Predictive Controller to keep a simulated vehicle in its lane.
 
 # TERM3 (Planning and System Integeration)
-working on it
+1) Project: Path Planning    
+Created an end-to-end path planner that drives the car in traffic     
+
+2) Project: Semantic Segmentation    
+Build a semantic segmentation network to identify free space on the road.     
+
+![Graduation Certificate][image_cert]
